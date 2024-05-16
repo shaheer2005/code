@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(104, 86, 86);
+    text-align: center;
+}
+.mainarea{
+    display: flex;
+    justify-content: space-around;
+}
+.shiro{
+    background-color: rgb(104, 89, 89);
+    width: 100%;
+}
+textarea{
+    width: 100%;
+    min-height: 250px;
+    overflow: scroll;
+    font-size: x-large;
+}
+iframe{
+    background-color: rgb(172, 171, 171);
+    width: 100%;
+    height: 30em;
+}
+a{
+    color: rgb(223, 223, 223);
+    font-size:smaller;
+}
